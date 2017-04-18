@@ -9,7 +9,7 @@ A CSV_parser object is created using a bufferedReader object
  ```CSVParser parsed_csv = new CSVParser(bufferedReader)```
  
  The parsed information can be retrieved as a 2x2 array using:
- '''parsed_csv.getCSV()'''
+ ```parsed_csv.getCSV()```
  
  ## Format
  
