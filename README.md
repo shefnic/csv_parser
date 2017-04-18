@@ -8,7 +8,7 @@ I used this as an exercise to write the tool explicitly as a finite-state machin
 A CSV_parser object is created using a bufferedReader object
  ```CSVParser parsed_csv = new CSVParser(bufferedReader)```
  
- The parsed information can be retrieved as a 2x2 array using:
+ The parsed information can be retrieved as a 2-dimensional array using:
  ```parsed_csv.getCSV()```
  
  ## Format
